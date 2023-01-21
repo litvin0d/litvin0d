@@ -2,7 +2,7 @@
 
 <h2 align="center"><b>⭐ My GitHub stats ⭐</b></h2>
   <p align="center">
-  <img src="https://metrics.lecoq.io/litvin0d" />
+  <img src="https://metrics.lecoq.io/litvin0d" alt="Please reload the page" />
   <br>
   <img alt="codeSTACKr's GitHub Stats" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=litvin0d&layout=compact&theme=github_dark" /> 
   <br>
